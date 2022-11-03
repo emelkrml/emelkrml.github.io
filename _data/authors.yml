@@ -1,0 +1,21 @@
+# Add Authors here
+emelkrml:
+   name: Emel Kırımlı
+   username: emelkrml
+   site: http://emelkirimli.com
+   avatar: johndoe.png
+   bio: "Merhaba ben Emel, Backend Developer."
+   email: mail@johndoe.com
+   social:
+      - title: "github"
+        url: "https://github.com/emelkrml"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/emel-kirimli"
+      - title: "twitter"
+        url: "https://www.twitter.com/emelkrml1"
+      - title: "instagram"
+        url: "https://instagram.com/emelkrml"
+      - title: "medium"
+        url: "https://medium.com/krmlemel"
+      - title: "telegram"
+        url: "https://telegram.com/emelkrml"
