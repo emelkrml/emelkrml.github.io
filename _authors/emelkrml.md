@@ -1,6 +1,6 @@
 ---
 name: Emel Kırımlı
-username: emelkrml
+username: Emel Kırımlı
 bio: "Merhaba, ben Emel. Bilgisayar mühendisiyim."
 site: http://emelkirimli.com
 avatar: johndoe.png

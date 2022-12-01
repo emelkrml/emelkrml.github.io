@@ -1,7 +1,7 @@
-title: emelkrml
+title: Emel Kırımlı
 subtitle: Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Emel Kırımlı - Asp.Net teknolojileri, mssql, python, jquery... Yazılım geliştiriciler için notlar
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,7 +25,7 @@ urls:
 
 author_logo: profile.png
 author: Emel Kırımlı
-author_bio: Merhaba, ben Emel Kırımlı :D
+author_bio: Merhaba, ben Emel Kırımlı
 author_email: "krmlemel@gmail.com"
 author_location: Türkiye
 author_website_url: "https://emelkirimli.com"
@@ -83,13 +83,13 @@ telegram_username: emelkrml
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: emelkrml
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
-
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: https://gmail.us19.list-manage.com/subscribe/post?u=573934d639369b57f6ef7bca9&amp;id=a11335cf0c&amp;f_id=00af8ce4f0
 # contact form - (choose formspress or getform)
-# getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
+getform_endpoint: 70f85ebe-5b3b-48b0-87ec-f0074270ae73
 formspree_email: krmlemel@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
