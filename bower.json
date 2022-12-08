@@ -1,15 +1,15 @@
 {
-  "name": "devlopr-jekyll",
-  "homepage": "https://github.com/sujaykundu777/devlopr-jekyll",
+  "name": "Emel Kırımlı",
+  "homepage": "https://emelkirimli.com",
   "authors": [
-    "sujaykundu777 <sujaykundu777@gmail.com>"
+    "emelkrml <krmlemel@gmail.com>"
   ],
-  "description": "A Jekyll Theme Built For Developers",
+  "description": "Yazılım Geliştiriciye Notlar",
   "main": "",
   "keywords": [
-    "jekyll-theme",
-    "jekyll",
-    "gallery"
+    "yazılım geliştirme",
+    "programlama",
+    "kodlama"
   ],
   "license": "MIT",
   "ignore": [
