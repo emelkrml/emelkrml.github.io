@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'jekyll', '~> 4.3.1'
 gem 'bundler', '~> 2.3.23'
 gem 'faraday-retry'
-gem 'backports', '~> 3.23'
+gem 'backports', '~> 3.25'
 gem 'kramdown'
 gem 'puma'
 
